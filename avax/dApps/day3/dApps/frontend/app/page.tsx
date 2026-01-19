@@ -131,8 +131,8 @@ export default function Page() {
               : '-'}
           </p>
 
-          <p><strong>Nama:</strong> Dharma Fathahillah</p>
-          <p><strong>NIM:</strong> 231011401770</p>
+          <p><strong>Nama:</strong> Muhamad Shafly Pratama</p>
+          <p><strong>NIM:</strong> 231011402006</p>
         </div>
 
         {/* ==========================
